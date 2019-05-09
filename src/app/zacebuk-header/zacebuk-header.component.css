@@ -1,0 +1,10 @@
+.top {
+    position: fixed;
+    z-index: 1;
+    width: 98%;
+    
+}
+
+.button_style{
+ cursor: pointer;
+}

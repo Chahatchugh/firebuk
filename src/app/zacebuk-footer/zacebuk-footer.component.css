@@ -1,0 +1,11 @@
+.footer_div{
+    height: 30px;
+    background-color: black;
+    text-align: center;
+}
+
+@media (max-width: 375px) {
+    .footer_div {
+        width: 375px;
+    }
+}

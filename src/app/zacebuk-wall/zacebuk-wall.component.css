@@ -1,0 +1,130 @@
+.wall_style{
+    margin-bottom: 35px;
+}
+
+.post {
+    margin-top: 5%;
+}
+.card_box{
+margin-top: 10px;
+height: auto;
+background-color:#fff;
+border: 1px solid black;
+}
+
+.user_name_area{
+    width: 100%;
+    height: auto;
+    background-color: cadetblue;
+    padding-left:10px;
+    padding-top:5px;
+    padding-bottom:5px; 
+}
+
+
+.post_area_content{
+    width: 70%;
+    height: auto;
+    background-color:#fff;
+    padding-left:10px;
+    padding-top:5px;
+    margin-left: 3px;
+
+
+}
+
+@media (max-width: 375px) {
+    .right_mobile {
+        margin-left: 6%;
+    }
+}
+
+ 
+/* .card_box:hover {
+    box-shadow: 5px;
+    background-color: blueviolet;
+}  */
+
+.post_option_area{
+    height: auto;
+    color: black;
+}
+
+.button_option_here{
+    
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.commentlist_area{
+    display:none;
+}
+
+.button_styles{
+    height: 22px;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.comments_area{
+    margin-bottom: 5px;
+}
+
+.commentForm{
+    margin-bottom: 5px;
+    height: auto;
+    widows: 100%;
+}
+
+@media (max-width: 415px){
+    .post {
+        margin-top: 5%;
+    }
+}
+@media (max-width: 425px){
+    .post {
+        margin-top: 5%;
+    }
+}
+@media (max-width: 535px){
+    .post {
+        margin-top: 5%;
+    }
+}
+@media (max-width: 645px){
+    .post {
+        margin-top: 5%;
+    }
+}
+
+
+
+.old_comment_box{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: auto;
+    padding-left:10px;
+    padding-top:3px;  
+    background-color: thistle;
+}
+
+.li_style{
+    list-style: none; 
+    border-bottom: 1px solid rgb(245, 144, 85);
+}
+
+.comments_list{
+    height: auto;
+    background-color: aqua;
+
+}
+
+.comment {
+    display: none;
+}
+.modalbox_style{
+    width: 100%;
+}
